@@ -25,6 +25,5 @@ npm start
 
 ```
 
-### Version: 1.0.0
-
-### Licenses: MIT
+- Version: 1.0.0
+- Licenses: MIT
